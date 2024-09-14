@@ -1,0 +1,14 @@
+D:\Studing\University\Modern Programming\lab1(temp)\bin\Debug\lab1(temp).exe.config
+D:\Studing\University\Modern Programming\lab1(temp)\bin\Debug\lab1(temp).exe
+D:\Studing\University\Modern Programming\lab1(temp)\bin\Debug\lab1(temp).pdb
+D:\Studing\University\Modern Programming\lab1(temp)\obj\Debug\lab1(temp).csproj.AssemblyReference.cache
+D:\Studing\University\Modern Programming\lab1(temp)\obj\Debug\lab1(temp).csproj.CoreCompileInputs.cache
+D:\Studing\University\Modern Programming\lab1(temp)\obj\Debug\lab1(temp).exe
+D:\Studing\University\Modern Programming\lab1(temp)\obj\Debug\lab1(temp).pdb
+D:\Studing\University\Modern Programming\lab1\bin\Debug\lab1(temp).exe.config
+D:\Studing\University\Modern Programming\lab1\bin\Debug\lab1(temp).exe
+D:\Studing\University\Modern Programming\lab1\bin\Debug\lab1(temp).pdb
+D:\Studing\University\Modern Programming\lab1\obj\Debug\lab1(temp).csproj.AssemblyReference.cache
+D:\Studing\University\Modern Programming\lab1\obj\Debug\lab1(temp).csproj.CoreCompileInputs.cache
+D:\Studing\University\Modern Programming\lab1\obj\Debug\lab1(temp).exe
+D:\Studing\University\Modern Programming\lab1\obj\Debug\lab1(temp).pdb
