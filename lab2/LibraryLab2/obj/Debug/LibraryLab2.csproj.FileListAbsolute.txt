@@ -1,0 +1,6 @@
+D:\Studing\University\Modern Programming\lab2\LibraryLab2\bin\Debug\LibraryLab2.dll
+D:\Studing\University\Modern Programming\lab2\LibraryLab2\bin\Debug\LibraryLab2.pdb
+D:\Studing\University\Modern Programming\lab2\LibraryLab2\obj\Debug\LibraryLab2.csproj.AssemblyReference.cache
+D:\Studing\University\Modern Programming\lab2\LibraryLab2\obj\Debug\LibraryLab2.csproj.CoreCompileInputs.cache
+D:\Studing\University\Modern Programming\lab2\LibraryLab2\obj\Debug\LibraryLab2.dll
+D:\Studing\University\Modern Programming\lab2\LibraryLab2\obj\Debug\LibraryLab2.pdb

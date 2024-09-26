@@ -1,0 +1,10 @@
+D:\Studing\University\Modern Programming\lab2\MyProjectLab2\bin\Debug\MyProjectLab2.exe.config
+D:\Studing\University\Modern Programming\lab2\MyProjectLab2\bin\Debug\MyProjectLab2.exe
+D:\Studing\University\Modern Programming\lab2\MyProjectLab2\bin\Debug\MyProjectLab2.pdb
+D:\Studing\University\Modern Programming\lab2\MyProjectLab2\bin\Debug\LibraryLab2.dll
+D:\Studing\University\Modern Programming\lab2\MyProjectLab2\bin\Debug\LibraryLab2.pdb
+D:\Studing\University\Modern Programming\lab2\MyProjectLab2\obj\Debug\MyProjectLab2.csproj.AssemblyReference.cache
+D:\Studing\University\Modern Programming\lab2\MyProjectLab2\obj\Debug\MyProjectLab2.csproj.CoreCompileInputs.cache
+D:\Studing\University\Modern Programming\lab2\MyProjectLab2\obj\Debug\MyProjec.64B3D43F.Up2Date
+D:\Studing\University\Modern Programming\lab2\MyProjectLab2\obj\Debug\MyProjectLab2.exe
+D:\Studing\University\Modern Programming\lab2\MyProjectLab2\obj\Debug\MyProjectLab2.pdb
