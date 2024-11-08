@@ -1,0 +1,7 @@
+D:\Studing\University\Modern Programming\lab8\lab8\obj\Debug\lab8.csproj.AssemblyReference.cache
+D:\Studing\University\Modern Programming\lab8\lab8\obj\Debug\lab8.csproj.CoreCompileInputs.cache
+D:\Studing\University\Modern Programming\lab8\lab8\bin\Debug\lab8.exe.config
+D:\Studing\University\Modern Programming\lab8\lab8\bin\Debug\lab8.exe
+D:\Studing\University\Modern Programming\lab8\lab8\bin\Debug\lab8.pdb
+D:\Studing\University\Modern Programming\lab8\lab8\obj\Debug\lab8.exe
+D:\Studing\University\Modern Programming\lab8\lab8\obj\Debug\lab8.pdb
