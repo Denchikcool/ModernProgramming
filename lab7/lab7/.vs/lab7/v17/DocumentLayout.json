@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Studing\\University\\Modern Programming\\lab7\\lab7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA9792C-1DBA-4AEC-B2FF-FA371B920E38}|lab7.csproj|d:\\studing\\university\\modern programming\\lab7\\lab7\\tmemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADA9792C-1DBA-4AEC-B2FF-FA371B920E38}|lab7.csproj|solutionrelative:tmemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA9792C-1DBA-4AEC-B2FF-FA371B920E38}|lab7.csproj|D:\\Studing\\University\\Modern Programming\\lab7\\lab7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADA9792C-1DBA-4AEC-B2FF-FA371B920E38}|lab7.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7867233D-96A0-40A6-BE75-9EF800888BDF}|..\\MemoryTests\\MemoryTests.csproj|d:\\studing\\university\\modern programming\\lab7\\memorytests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Studing\\University\\Modern Programming\\lab7\\MemoryTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\MemoryTests\\UnitTest1.cs",
+              "ToolTip": "D:\\Studing\\University\\Modern Programming\\lab7\\MemoryTests\\UnitTest1.cs",
+              "RelativeToolTip": "..\\MemoryTests\\UnitTest1.cs",
+              "ViewState": "AgIAAMoAAAAAAAAAAAAUwPoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:07:59.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TMemory.cs",
+              "DocumentMoniker": "D:\\Studing\\University\\Modern Programming\\lab7\\lab7\\TMemory.cs",
+              "RelativeDocumentMoniker": "TMemory.cs",
+              "ToolTip": "D:\\Studing\\University\\Modern Programming\\lab7\\lab7\\TMemory.cs",
+              "RelativeToolTip": "TMemory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:42:50.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Studing\\University\\Modern Programming\\lab7\\lab7\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Studing\\University\\Modern Programming\\lab7\\lab7\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:42:16.299Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
