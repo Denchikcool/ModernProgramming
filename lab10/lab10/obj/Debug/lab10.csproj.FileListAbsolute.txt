@@ -1,0 +1,7 @@
+D:\Studing\University\Modern Programming\lab10\lab10\bin\Debug\lab10.exe.config
+D:\Studing\University\Modern Programming\lab10\lab10\bin\Debug\lab10.exe
+D:\Studing\University\Modern Programming\lab10\lab10\bin\Debug\lab10.pdb
+D:\Studing\University\Modern Programming\lab10\lab10\obj\Debug\lab10.csproj.AssemblyReference.cache
+D:\Studing\University\Modern Programming\lab10\lab10\obj\Debug\lab10.csproj.CoreCompileInputs.cache
+D:\Studing\University\Modern Programming\lab10\lab10\obj\Debug\lab10.exe
+D:\Studing\University\Modern Programming\lab10\lab10\obj\Debug\lab10.pdb
