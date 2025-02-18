@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Studing\\University\\Modern Programming\\PhoneBook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84F2BFEE-64CB-495D-98FB-E318F187321D}|..\\UAbonentListTest\\UAbonentListTest.csproj|d:\\studing\\university\\modern programming\\uabonentlisttest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F2BFEE-64CB-495D-98FB-E318F187321D}|..\\UAbonentListTest\\UAbonentListTest.csproj|d:\\studing\\university\\modern programming\\uabonentlisttest\\uabonentlisttest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88EDF80-EBB5-BD7D-CF6E-38E8756FF736}|PhoneBook.csproj|d:\\studing\\university\\modern programming\\phonebook\\phonebook.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C88EDF80-EBB5-BD7D-CF6E-38E8756FF736}|PhoneBook.csproj|solutionrelative:phonebook.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88EDF80-EBB5-BD7D-CF6E-38E8756FF736}|PhoneBook.csproj|d:\\studing\\university\\modern programming\\phonebook\\uabonentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88EDF80-EBB5-BD7D-CF6E-38E8756FF736}|PhoneBook.csproj|solutionrelative:uabonentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88EDF80-EBB5-BD7D-CF6E-38E8756FF736}|PhoneBook.csproj|d:\\studing\\university\\modern programming\\phonebook\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88EDF80-EBB5-BD7D-CF6E-38E8756FF736}|PhoneBook.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88EDF80-EBB5-BD7D-CF6E-38E8756FF736}|PhoneBook.csproj|d:\\studing\\university\\modern programming\\phonebook\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C88EDF80-EBB5-BD7D-CF6E-38E8756FF736}|PhoneBook.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UAbonentListTest",
+              "DocumentMoniker": "D:\\Studing\\University\\Modern Programming\\UAbonentListTest\\UAbonentListTest.csproj",
+              "RelativeDocumentMoniker": "..\\UAbonentListTest\\UAbonentListTest.csproj",
+              "ToolTip": "D:\\Studing\\University\\Modern Programming\\UAbonentListTest\\UAbonentListTest.csproj",
+              "RelativeToolTip": "..\\UAbonentListTest\\UAbonentListTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-18T14:05:56.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Studing\\University\\Modern Programming\\UAbonentListTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\UAbonentListTest\\UnitTest1.cs",
+              "ToolTip": "D:\\Studing\\University\\Modern Programming\\UAbonentListTest\\UnitTest1.cs*",
+              "RelativeToolTip": "..\\UAbonentListTest\\UnitTest1.cs*",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAzwJoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T14:05:43.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PhoneBook.csproj",
+              "DocumentMoniker": "D:\\Studing\\University\\Modern Programming\\PhoneBook\\PhoneBook.csproj",
+              "RelativeDocumentMoniker": "PhoneBook.csproj",
+              "ToolTip": "D:\\Studing\\University\\Modern Programming\\PhoneBook\\PhoneBook.csproj",
+              "RelativeToolTip": "PhoneBook.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-18T13:57:18.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UAbonentList.cs",
+              "DocumentMoniker": "D:\\Studing\\University\\Modern Programming\\PhoneBook\\UAbonentList.cs",
+              "RelativeDocumentMoniker": "UAbonentList.cs",
+              "ToolTip": "D:\\Studing\\University\\Modern Programming\\PhoneBook\\UAbonentList.cs",
+              "RelativeToolTip": "UAbonentList.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAwwHwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T13:56:19.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Studing\\University\\Modern Programming\\PhoneBook\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\Studing\\University\\Modern Programming\\PhoneBook\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-18T13:53:09.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Studing\\University\\Modern Programming\\PhoneBook\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\Studing\\University\\Modern Programming\\PhoneBook\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T13:53:00.023Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
