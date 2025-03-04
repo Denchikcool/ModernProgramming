@@ -1,0 +1,24 @@
+E:\Workflow\8\STP\Converter\Converter\obj\Debug\Converter.csprojAssemblyReference.cache
+E:\Workflow\8\STP\Converter\Converter\obj\Debug\Converter.Properties.Resources.resources
+E:\Workflow\8\STP\Converter\Converter\obj\Debug\Converter.csproj.GenerateResource.cache
+E:\Workflow\8\STP\Converter\Converter\obj\Debug\Converter.csproj.CoreCompileInputs.cache
+E:\Workflow\8\STP\Converter\Converter\bin\Debug\Converter.exe.config
+E:\Workflow\8\STP\Converter\Converter\bin\Debug\Converter.exe
+E:\Workflow\8\STP\Converter\Converter\bin\Debug\Converter.pdb
+E:\Workflow\8\STP\Converter\Converter\obj\Debug\Converter.exe
+E:\Workflow\8\STP\Converter\Converter\obj\Debug\Converter.pdb
+E:\Workflow\8\STP\Converter\Converter\obj\Debug\Converter.AboutBox1.resources
+E:\Workflow\8\STP\Converter\Converter\obj\Debug\Converter.Form2.resources
+E:\Workflow\8\STP\Converter\Converter\obj\Debug\Converter.Form1.resources
+D:\Studing\University\Modern Programming\Converter\Converter\bin\Debug\Converter.exe.config
+D:\Studing\University\Modern Programming\Converter\Converter\bin\Debug\Converter.exe
+D:\Studing\University\Modern Programming\Converter\Converter\bin\Debug\Converter.pdb
+D:\Studing\University\Modern Programming\Converter\Converter\obj\Debug\Converter.csproj.AssemblyReference.cache
+D:\Studing\University\Modern Programming\Converter\Converter\obj\Debug\Converter.AboutBox1.resources
+D:\Studing\University\Modern Programming\Converter\Converter\obj\Debug\Converter.Form1.resources
+D:\Studing\University\Modern Programming\Converter\Converter\obj\Debug\Converter.Form2.resources
+D:\Studing\University\Modern Programming\Converter\Converter\obj\Debug\Converter.Properties.Resources.resources
+D:\Studing\University\Modern Programming\Converter\Converter\obj\Debug\Converter.csproj.GenerateResource.cache
+D:\Studing\University\Modern Programming\Converter\Converter\obj\Debug\Converter.csproj.CoreCompileInputs.cache
+D:\Studing\University\Modern Programming\Converter\Converter\obj\Debug\Converter.exe
+D:\Studing\University\Modern Programming\Converter\Converter\obj\Debug\Converter.pdb

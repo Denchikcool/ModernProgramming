@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Studing\\University\\Modern Programming\\Converter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89D1FDA1-9760-4F16-BFB3-70601BD71172}|Converter\\Converter.csproj|D:\\Studing\\University\\Modern Programming\\Converter\\converter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D1FDA1-9760-4F16-BFB3-70601BD71172}|Converter\\Converter.csproj|solutionrelative:converter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D1FDA1-9760-4F16-BFB3-70601BD71172}|Converter\\Converter.csproj|D:\\Studing\\University\\Modern Programming\\Converter\\converter\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D1FDA1-9760-4F16-BFB3-70601BD71172}|Converter\\Converter.csproj|solutionrelative:converter\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D1FDA1-9760-4F16-BFB3-70601BD71172}|Converter\\Converter.csproj|D:\\Studing\\University\\Modern Programming\\Converter\\converter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89D1FDA1-9760-4F16-BFB3-70601BD71172}|Converter\\Converter.csproj|solutionrelative:converter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D1FDA1-9760-4F16-BFB3-70601BD71172}|Converter\\Converter.csproj|d:\\studing\\university\\modern programming\\converter\\converter\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{89D1FDA1-9760-4F16-BFB3-70601BD71172}|Converter\\Converter.csproj|solutionrelative:converter\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Converter||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D1FDA1-9760-4F16-BFB3-70601BD71172}|Converter\\Converter.csproj|D:\\Studing\\University\\Modern Programming\\Converter\\converter\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D1FDA1-9760-4F16-BFB3-70601BD71172}|Converter\\Converter.csproj|solutionrelative:converter\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D1FDA1-9760-4F16-BFB3-70601BD71172}|Converter\\Converter.csproj|D:\\Studing\\University\\Modern Programming\\Converter\\converter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D1FDA1-9760-4F16-BFB3-70601BD71172}|Converter\\Converter.csproj|solutionrelative:converter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D1FDA1-9760-4F16-BFB3-70601BD71172}|Converter\\Converter.csproj|D:\\Studing\\University\\Modern Programming\\Converter\\converter\\control_.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D1FDA1-9760-4F16-BFB3-70601BD71172}|Converter\\Converter.csproj|solutionrelative:converter\\control_.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D1FDA1-9760-4F16-BFB3-70601BD71172}|Converter\\Converter.csproj|D:\\Studing\\University\\Modern Programming\\Converter\\converter\\editor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D1FDA1-9760-4F16-BFB3-70601BD71172}|Converter\\Converter.csproj|solutionrelative:converter\\editor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D1FDA1-9760-4F16-BFB3-70601BD71172}|Converter\\Converter.csproj|d:\\studing\\university\\modern programming\\converter\\converter\\conver_10_p.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D1FDA1-9760-4F16-BFB3-70601BD71172}|Converter\\Converter.csproj|solutionrelative:converter\\conver_10_p.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D1FDA1-9760-4F16-BFB3-70601BD71172}|Converter\\Converter.csproj|D:\\Studing\\University\\Modern Programming\\Converter\\converter\\conver_p_10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D1FDA1-9760-4F16-BFB3-70601BD71172}|Converter\\Converter.csproj|solutionrelative:converter\\conver_p_10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D1FDA1-9760-4F16-BFB3-70601BD71172}|Converter\\Converter.csproj|D:\\Studing\\University\\Modern Programming\\Converter\\converter\\aboutbox1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D1FDA1-9760-4F16-BFB3-70601BD71172}|Converter\\Converter.csproj|solutionrelative:converter\\aboutbox1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D1FDA1-9760-4F16-BFB3-70601BD71172}|Converter\\Converter.csproj|D:\\Studing\\University\\Modern Programming\\Converter\\converter\\aboutbox1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D1FDA1-9760-4F16-BFB3-70601BD71172}|Converter\\Converter.csproj|solutionrelative:converter\\aboutbox1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D1FDA1-9760-4F16-BFB3-70601BD71172}|Converter\\Converter.csproj|D:\\Studing\\University\\Modern Programming\\Converter\\converter\\classdiagram1.cd||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{89D1FDA1-9760-4F16-BFB3-70601BD71172}|Converter\\Converter.csproj|solutionrelative:converter\\classdiagram1.cd||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D1FDA1-9760-4F16-BFB3-70601BD71172}|Converter\\Converter.csproj|D:\\Studing\\University\\Modern Programming\\Converter\\converter\\aboutbox1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89D1FDA1-9760-4F16-BFB3-70601BD71172}|Converter\\Converter.csproj|solutionrelative:converter\\aboutbox1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D1FDA1-9760-4F16-BFB3-70601BD71172}|Converter\\Converter.csproj|D:\\Studing\\University\\Modern Programming\\Converter\\converter\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89D1FDA1-9760-4F16-BFB3-70601BD71172}|Converter\\Converter.csproj|solutionrelative:converter\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8ABAF8-35A2-4093-B4EC-96FB06848F8A}|UnitTestProject\\UnitTestProject.csproj|D:\\Studing\\University\\Modern Programming\\Converter\\unittestproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8ABAF8-35A2-4093-B4EC-96FB06848F8A}|UnitTestProject\\UnitTestProject.csproj|solutionrelative:unittestproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D1FDA1-9760-4F16-BFB3-70601BD71172}|Converter\\Converter.csproj|d:\\studing\\university\\modern programming\\converter\\converter\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Studing\\University\\Modern Programming\\Converter\\Converter\\App.config",
+              "RelativeDocumentMoniker": "Converter\\App.config",
+              "ToolTip": "D:\\Studing\\University\\Modern Programming\\Converter\\Converter\\App.config",
+              "RelativeToolTip": "Converter\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-04T04:51:29.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Converter",
+              "DocumentMoniker": "D:\\Studing\\University\\Modern Programming\\Converter\\Converter\\Converter.csproj",
+              "RelativeDocumentMoniker": "Converter\\Converter.csproj",
+              "ToolTip": "D:\\Studing\\University\\Modern Programming\\Converter\\Converter\\Converter.csproj",
+              "RelativeToolTip": "Converter\\Converter.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-04T04:51:17.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\Studing\\University\\Modern Programming\\Converter\\Converter\\Form2.cs",
+              "RelativeDocumentMoniker": "Converter\\Form2.cs",
+              "ToolTip": "D:\\Studing\\University\\Modern Programming\\Converter\\Converter\\Form2.cs",
+              "RelativeToolTip": "Converter\\Form2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T07:35:30.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Studing\\University\\Modern Programming\\Converter\\Converter\\Form1.cs",
+              "RelativeDocumentMoniker": "Converter\\Form1.cs",
+              "ToolTip": "D:\\Studing\\University\\Modern Programming\\Converter\\Converter\\Form1.cs",
+              "RelativeToolTip": "Converter\\Form1.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAqwIoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T07:35:17.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AboutBox1.Designer.cs",
+              "DocumentMoniker": "D:\\Studing\\University\\Modern Programming\\Converter\\Converter\\AboutBox1.Designer.cs",
+              "RelativeDocumentMoniker": "Converter\\AboutBox1.Designer.cs",
+              "ToolTip": "D:\\Studing\\University\\Modern Programming\\Converter\\Converter\\AboutBox1.Designer.cs",
+              "RelativeToolTip": "Converter\\AboutBox1.Designer.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAlwDEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T07:34:13.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "D:\\Studing\\University\\Modern Programming\\Converter\\Converter\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "Converter\\ClassDiagram1.cd",
+              "ToolTip": "D:\\Studing\\University\\Modern Programming\\Converter\\Converter\\ClassDiagram1.cd",
+              "RelativeToolTip": "Converter\\ClassDiagram1.cd",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-03-01T07:34:02.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AboutBox1.cs",
+              "DocumentMoniker": "D:\\Studing\\University\\Modern Programming\\Converter\\Converter\\AboutBox1.cs",
+              "RelativeDocumentMoniker": "Converter\\AboutBox1.cs",
+              "ToolTip": "D:\\Studing\\University\\Modern Programming\\Converter\\Converter\\AboutBox1.cs",
+              "RelativeToolTip": "Converter\\AboutBox1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T07:33:21.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AboutBox1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\Studing\\University\\Modern Programming\\Converter\\Converter\\AboutBox1.cs",
+              "RelativeDocumentMoniker": "Converter\\AboutBox1.cs",
+              "ToolTip": "D:\\Studing\\University\\Modern Programming\\Converter\\Converter\\AboutBox1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Converter\\AboutBox1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T07:33:12.205Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "History.cs",
+              "DocumentMoniker": "D:\\Studing\\University\\Modern Programming\\Converter\\Converter\\History.cs",
+              "RelativeDocumentMoniker": "Converter\\History.cs",
+              "ToolTip": "D:\\Studing\\University\\Modern Programming\\Converter\\Converter\\History.cs",
+              "RelativeToolTip": "Converter\\History.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T07:32:28.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Editor.cs",
+              "DocumentMoniker": "D:\\Studing\\University\\Modern Programming\\Converter\\Converter\\Editor.cs",
+              "RelativeDocumentMoniker": "Converter\\Editor.cs",
+              "ToolTip": "D:\\Studing\\University\\Modern Programming\\Converter\\Converter\\Editor.cs",
+              "RelativeToolTip": "Converter\\Editor.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T07:32:11.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Conver_p_10.cs",
+              "DocumentMoniker": "D:\\Studing\\University\\Modern Programming\\Converter\\Converter\\Conver_p_10.cs",
+              "RelativeDocumentMoniker": "Converter\\Conver_p_10.cs",
+              "ToolTip": "D:\\Studing\\University\\Modern Programming\\Converter\\Converter\\Conver_p_10.cs",
+              "RelativeToolTip": "Converter\\Conver_p_10.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T07:32:05.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Conver_10_p.cs",
+              "DocumentMoniker": "D:\\Studing\\University\\Modern Programming\\Converter\\Converter\\Conver_10_p.cs",
+              "RelativeDocumentMoniker": "Converter\\Conver_10_p.cs",
+              "ToolTip": "D:\\Studing\\University\\Modern Programming\\Converter\\Converter\\Conver_10_p.cs",
+              "RelativeToolTip": "Converter\\Conver_10_p.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwBMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T07:32:00.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Control_.cs",
+              "DocumentMoniker": "D:\\Studing\\University\\Modern Programming\\Converter\\Converter\\Control_.cs",
+              "RelativeDocumentMoniker": "Converter\\Control_.cs",
+              "ToolTip": "D:\\Studing\\University\\Modern Programming\\Converter\\Converter\\Control_.cs",
+              "RelativeToolTip": "Converter\\Control_.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T07:31:52.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\Studing\\University\\Modern Programming\\Converter\\Converter\\Form2.cs",
+              "RelativeDocumentMoniker": "Converter\\Form2.cs",
+              "ToolTip": "D:\\Studing\\University\\Modern Programming\\Converter\\Converter\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Converter\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T07:31:48.105Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\Studing\\University\\Modern Programming\\Converter\\Converter\\Form1.cs",
+              "RelativeDocumentMoniker": "Converter\\Form1.cs",
+              "ToolTip": "D:\\Studing\\University\\Modern Programming\\Converter\\Converter\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Converter\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T07:31:41.198Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Studing\\University\\Modern Programming\\Converter\\Converter\\Program.cs",
+              "RelativeDocumentMoniker": "Converter\\Program.cs",
+              "ToolTip": "D:\\Studing\\University\\Modern Programming\\Converter\\Converter\\Program.cs",
+              "RelativeToolTip": "Converter\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T07:31:36.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Studing\\University\\Modern Programming\\Converter\\UnitTestProject\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTestProject\\UnitTest1.cs",
+              "ToolTip": "D:\\Studing\\University\\Modern Programming\\Converter\\UnitTestProject\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTestProject\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T07:29:59.974Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
